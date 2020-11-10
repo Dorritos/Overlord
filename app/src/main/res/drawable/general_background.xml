@@ -1,0 +1,19 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <gradient android:angle="225" android:endColor="@color/black"
+                      android:startColor="@color/btn_login_stroke_color"/>
+            <corners android:radius="0dp"/>
+            <stroke android:width="4dp" android:color="@color/btn_login_stroke_color"/>
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+           <gradient  android:endColor="@color/btn_login_stroke_color"
+                      android:startColor="@color/black"/>
+            <corners android:radius="0dp"/>
+            <stroke android:width="2dp" android:color="@color/btn_login_stroke_color"/>
+        </shape>
+    </item>
+</selector>

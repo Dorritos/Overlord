@@ -1,0 +1,37 @@
+<resources>
+    <!--Main strings -->
+    <!--Главные строки -->
+    <string name="app_name">аааааааа))))))))</string>
+    <string name="data_text">forty fortynine fiftysix</string>
+
+    <!--Authorization fragment string -->
+    <!--Строки фрагмента авторизации -->
+    <string name="et_username">Username</string>
+    <string name="et_password">Password</string>
+    <string name="btn_login">Log in</string>
+    <string name="tv_forgot_password">Have forgotten password?</string>
+
+    <!--Main strings -->
+    <!--Главные строки -->
+    <string name="empty_fields">Поля пустые</string>
+    <string name="invalid_email">Инвалид эмаил</string>
+
+    <!--Main strings -->
+    <!--Главные строки -->
+    <string name="failure_unknown_error">Неизвестная ошибка</string>
+    <string name="failure_authorization_error">Не получилось войти</string>
+    <string name="failure_account_not_found_error">Пользователь не найден</string>
+    <string name="failure_server_not_found_error">Сервер не найден</string>
+    <string name="failure_server_error">Ошибка сервера</string>
+    <string name="failure_network_connection_error">Нет соединения с интернетом</string>
+
+    <!--Main strings -->
+    <!--Главные строки -->
+    <string name="settings_personal_data">Личные данные</string>
+    <string name="settings_custom_ui">Интерфейс</string>
+    <string name="setting_notifications">Уведомления</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_help">Помощь</string>
+    <string name="settings_credit">2020 ITIS-KAMAZ</string>
+
+</resources>

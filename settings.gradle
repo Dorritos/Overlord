@@ -1,0 +1,8 @@
+include ':features:authorization_api'
+include ':features:example2_api'
+include ':features:ownerApp'
+include ':features:authorization'
+include ':data'
+include ':entities'
+include ':app'
+rootProject.name = "BaseArchitectureExample"
